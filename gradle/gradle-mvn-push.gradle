@@ -2,7 +2,7 @@ apply plugin: "org.jetbrains.dokka"
 apply plugin: "com.vanniktech.maven.publish"
 
 dokka {
-    outputDirectory = "$rootDir/docs/1.x"
+    outputDirectory = "$rootDir/docs/0.1.X"
     outputFormat = 'gfm'
 }
 
