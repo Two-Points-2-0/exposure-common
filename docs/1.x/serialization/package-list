@@ -1,0 +1,8 @@
+$dokka.format:gfm
+$dokka.linkExtension:md
+$dokka.location:com.twopointsexposure.common.serialization.model$base64ToBase58String(kotlin.String)com.twopointsexposure.common.serialization.model/kotlin.-string/base64-to-base58-string.md
+$dokka.location:com.twopointsexposure.common.serialization.model$decodeBase58(kotlin.String)com.twopointsexposure.common.serialization.model/kotlin.-string/decode-base58.md
+$dokka.location:com.twopointsexposure.common.serialization.model$encodeToBase58String(kotlin.ByteArray)com.twopointsexposure.common.serialization.model/kotlin.-byte-array/encode-to-base58-string.md
+com.example.kmmsharedmodule
+com.twopointsexposure.common.serialization.model
+com.twopointsexposure.common.serialization.serializer

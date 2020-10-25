@@ -1,0 +1,5 @@
+[serialization](../../index.md) / [com.twopointsexposure.common.serialization.model](../index.md) / [UpcomingInvoiceInfo](index.md) / [&lt;init&gt;](./-init-.md)
+
+# &lt;init&gt;
+
+`UpcomingInvoiceInfo(invoiceLineInfos: `[`List`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-list/index.html)`<`[`InvoiceLineInfo`](../-invoice-line-info/index.md)`>, periodStart: <ERROR CLASS>, periodEnd: <ERROR CLASS>, coupon: `[`CouponInfo`](../-coupon-info/index.md)`?, amountDue: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, amountPaid: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, amountRemaining: `[`Long`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-long/index.html)`, currency: `[`String`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html)`)`
